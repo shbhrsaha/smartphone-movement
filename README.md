@@ -1,10 +1,10 @@
 
-INTRODUCTION
-============
+smartphone-movement
+===
 This demo lets you start recording live smartphone movements in just five minutes with a handful of scripts. Learn more at http://www.princeton.edu/~saha/smartphone-movement/. Extended from Peter Friese's mobile demo (http://www.peterfriese.de/how-to-use-the-gyroscope-of-your-iphone-in-a-mobile-web-app/).
 
-USAGE
-=====
+Usage
+---
 
 Make the CGI script executable
 
